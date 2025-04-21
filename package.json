@@ -1,10 +1,28 @@
 {
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "name": "verficai",
+=======
+  "name": "vscode-projects",
+>>>>>>> 6a44b4a933d0036285753e8eade220e8b3e5b009
+  "version": "1.0.0",
+  "description": "",
+=======
   "name": "vereficai",
   "version": "1.0.0",
+>>>>>>> 1dcef0ba62d76b0cd575a2519e1987088288566a
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+=======
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yairf1/vereficAI.git"
@@ -21,4 +39,5 @@
     "express": "^5.1.0"
   },
   "description": ""
+>>>>>>> 1dcef0ba62d76b0cd575a2519e1987088288566a
 }
